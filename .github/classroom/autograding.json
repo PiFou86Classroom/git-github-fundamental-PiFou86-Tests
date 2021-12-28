@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "IO test",
+      "setup": "",
+      "run": "dotnet run ",
+      "input": "Joe",
+      "output": "Bonjour",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
